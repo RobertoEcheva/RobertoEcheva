@@ -1,0 +1,4 @@
+- Backend Developer | JavaScript | SQL
+- Interested on Data Science, Machine Learning and Cloud Computing
+- Gamedev as a hobby
+- Currently learning Python and TypeScript
